@@ -433,170 +433,226 @@
 const wordList = [
   {
     word: "suitcase",
-    hint: "A container used for carrying personal belongings while traveling."
+    hint: "A container used for carrying personal belongings while traveling.",
   },
   {
     word: "saxophone",
-    hint: "A woodwind musical instrument known for its smooth, jazzy sound."
+    hint: "A woodwind musical instrument known for its smooth, jazzy sound.",
   },
   {
     word: "renaissance",
-    hint: "A period of European history marked by a revival of art, literature, and learning."
+    hint: "A period of European history marked by a revival of art, literature, and learning.",
   },
   {
     word: "algorithm",
-    hint: "A step-by-step procedure for solving a problem or accomplishing a task."
+    hint: "A step-by-step procedure for solving a problem or accomplishing a task.",
   },
   {
     word: "portfolio",
-    hint: "A collection of work samples or investment assets."
+    hint: "A collection of work samples or investment assets.",
   },
   {
     word: "chrysanthemum",
-    hint: "A flowering plant with daisy-like blooms."
+    hint: "A flowering plant with daisy-like blooms.",
   },
   {
     word: "perseverance",
-    hint: "The quality of continuing to try despite difficulties or setbacks."
+    hint: "The quality of continuing to try despite difficulties or setbacks.",
   },
   {
     word: "archipelago",
-    hint: "A group of islands clustered together in a sea or ocean."
+    hint: "A group of islands clustered together in a sea or ocean.",
   },
   {
     word: "silhouette",
-    hint: "The dark outline or shape of something shown against a lighter background."
+    hint: "The dark outline or shape of something shown against a lighter background.",
   },
   {
     word: "biosphere",
-    hint: "The part of the Earth's environment where life exists."
+    hint: "The part of the Earth's environment where life exists.",
   },
   {
     word: "philanthropy",
-    hint: "The practice of donating money, goods, or time to help others or to do good for society."
+    hint: "The practice of donating money, goods, or time to help others or to do good for society.",
   },
   {
     word: "palindrome",
-    hint: "A word, phrase, number, or other sequence of characters that reads the same backward as forward."
+    hint: "A word, phrase, number, or other sequence of characters that reads the same backward as forward.",
   },
   {
     word: "renaissance",
-    hint: "A period of European history marked by a revival of art, literature, and learning."
+    hint: "A period of European history marked by a revival of art, literature, and learning.",
   },
   {
     word: "aquamarine",
-    hint: "A bluish-green variety of the mineral beryl, used as a gemstone."
+    hint: "A bluish-green variety of the mineral beryl, used as a gemstone.",
   },
   {
     word: "filibuster",
-    hint: "A political procedure where a senator or representative extends debate to delay or prevent a vote on a bill."
+    hint: "A political procedure where a senator or representative extends debate to delay or prevent a vote on a bill.",
   },
   {
     word: "quintessential",
-    hint: "Representing the most perfect or typical example of a quality or class."
+    hint: "Representing the most perfect or typical example of a quality or class.",
   },
   {
     word: "bioluminescence",
-    hint: "The production and emission of light by a living organism."
+    hint: "The production and emission of light by a living organism.",
   },
   {
     word: "onomatopoeia",
-    hint: "A word that phonetically imitates or resembles the sound it describes."
+    hint: "A word that phonetically imitates or resembles the sound it describes.",
   },
   {
     word: "serendipity",
-    hint: "The occurrence and development of events by chance in a happy or beneficial way."
+    hint: "The occurrence and development of events by chance in a happy or beneficial way.",
   },
   {
     word: "equilibrium",
-    hint: "A state of balance between opposing forces or actions."
+    hint: "A state of balance between opposing forces or actions.",
   },
   {
     word: "karaoke",
-    hint: "A form of entertainment where people sing along with recorded music."
+    hint: "A form of entertainment where people sing along with recorded music.",
   },
   {
     word: "calligraphy",
-    hint: "The art of beautiful handwriting."
+    hint: "The art of beautiful handwriting.",
   },
   {
     word: "haiku",
-    hint: "A traditional form of Japanese poetry consisting of three lines."
+    hint: "A traditional form of Japanese poetry consisting of three lines.",
   },
   {
     word: "chronology",
-    hint: "The arrangement of events or dates in the order of their occurrence."
+    hint: "The arrangement of events or dates in the order of their occurrence.",
   },
   {
     word: "zephyr",
-    hint: "A gentle, mild breeze."
+    hint: "A gentle, mild breeze.",
   },
   {
     word: "effervescent",
-    hint: "Bubbling or fizzing, as with carbonation."
+    hint: "Bubbling or fizzing, as with carbonation.",
   },
   {
     word: "quintessence",
-    hint: "The pure essence of something; the most perfect embodiment of a quality."
+    hint: "The pure essence of something; the most perfect embodiment of a quality.",
   },
   {
     word: "crepuscular",
-    hint: "Active or occurring at dawn or dusk."
+    hint: "Active or occurring at dawn or dusk.",
   },
   {
     word: "melancholic",
-    hint: "Characterized by or expressing sadness, gloom, or depression."
+    hint: "Characterized by or expressing sadness, gloom, or depression.",
   },
   {
     word: "denouement",
-    hint: "The final part of a play, film, or narrative in which the strands of the plot are drawn together and matters are explained or resolved."
+    hint: "The final part of a play, film, or narrative in which the strands of the plot are drawn together and matters are explained or resolved.",
   },
   {
     word: "ephemeral",
-    hint: "Lasting for a very short time; impermanent."
+    hint: "Lasting for a very short time; impermanent.",
   },
   {
     word: "quixotic",
-    hint: "Exceedingly idealistic; unrealistic and impractical."
+    hint: "Exceedingly idealistic; unrealistic and impractical.",
   },
   {
     word: "zeitgeist",
-    hint: "The defining spirit or mood of a particular period of time."
+    hint: "The defining spirit or mood of a particular period of time.",
   },
   {
-    word: "quintessential",
-    hint: "Representing the most perfect or typical example of a quality or class."
+    word: "kaleidoscope",
+    hint: "A tube containing mirrors and pieces of colored glass or paper whose reflections create changing patterns.",
   },
   {
-    word: "serendipity",
-    hint: "The occurrence and development of events by chance in a happy or beneficial way."
+    word: "meticulous",
+    hint: "Showing great attention to detail; very careful and precise.",
   },
   {
-    word: "equilibrium",
-    hint: "A state of balance between opposing forces or actions."
+    word: "labyrinth",
+    hint: "A complicated irregular network of passages or paths in which it is difficult to find one's way.",
   },
   {
-    word: "karaoke",
-    hint: "A form of entertainment where people sing along with recorded music."
+    word: "cacophony",
+    hint: "A harsh, discordant mixture of sounds.",
   },
   {
-    word: "calligraphy",
-    hint: "The art of beautiful handwriting."
+    word: "peripheral",
+    hint: "Related to or situated on the edge or periphery of something.",
   },
   {
-    word: "haiku",
-    hint: "A traditional form of Japanese poetry consisting of three lines."
+    word: "threshold",
+    hint: "A point of entry or beginning; the magnitude or intensity that must be exceeded for a certain reaction or phenomenon to occur.",
   },
   {
-    word: "chronology",
-    hint: "The arrangement of events or dates in the order of their occurrence."
+    word: "nostalgia",
+    hint: "A sentimental longing or wistful affection for the past.",
   },
   {
-    word: "zephyr",
-    hint: "A gentle, mild breeze."
+    word: "euphoria",
+    hint: "A feeling or state of intense excitement and happiness.",
   },
   {
-    word: "effervescent",
-    hint: "Bubbling or fizzing, as with carbonation."
+    word: "mercurial",
+    hint: "Subject to sudden or unpredictable changes of mood or mind.",
+  },
+  {
+    word: "paradox",
+    hint: "A seemingly absurd or contradictory statement or proposition which when investigated may prove to be well founded or true.",
+  },
+  {
+    word: "symposium",
+    hint: "A conference or meeting to discuss a particular subject.",
+  },
+  {
+    word: "theorem",
+    hint: "A statement that has been proven based on previously established statements.",
+  },
+  {
+    word: "cavalier",
+    hint: "Showing a lack of proper concern; offhand or casual.",
+  },
+  {
+    word: "vernacular",
+    hint: "The language or dialect spoken by the ordinary people in a particular country or region.",
+  },
+  {
+    word: "crescendo",
+    hint: "A gradual increase in loudness or intensity.",
+  },
+  {
+    word: "insomnia",
+    hint: "Habitual sleeplessness; inability to sleep.",
+  },
+  {
+    word: "wanderlust",
+    hint: "A strong desire to travel and explore the world.",
+  },
+  {
+    word: "charisma",
+    hint: "Compelling attractiveness or charm that can inspire devotion in others.",
+  },
+  {
+    word: "eclectic",
+    hint: "Deriving ideas, style, or taste from a broad and diverse range of sources.",
+  },
+  {
+    word: "enigmatic",
+    hint: "Difficult to interpret or understand; mysterious.",
+  },
+  {
+    word: "synthesis",
+    hint: "The combination of components or elements to form a connected whole.",
+  },
+  {
+    word: "zealous",
+    hint: "Having or showing zeal; enthusiastically devoted or diligent.",
+  },
+  {
+    word: "metaphor",
+    hint: "A figure of speech in which a word or phrase is applied to an object or action to which it is not literally applicable.",
   },
 ];

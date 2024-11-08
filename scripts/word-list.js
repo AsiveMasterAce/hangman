@@ -432,171 +432,171 @@
 
 const wordList = [
   {
-    word: "SUITCASE",
+    word: "suitcase",
     hint: "A container used for carrying personal belongings while traveling."
   },
   {
-    word: "SAXOPHONE",
+    word: "saxophone",
     hint: "A woodwind musical instrument known for its smooth, jazzy sound."
   },
   {
-    word: "RENAISSANCE",
+    word: "renaissance",
     hint: "A period of European history marked by a revival of art, literature, and learning."
   },
   {
-    word: "ALGORITHM",
+    word: "algorithm",
     hint: "A step-by-step procedure for solving a problem or accomplishing a task."
   },
   {
-    word: "PORTFOLIO",
+    word: "portfolio",
     hint: "A collection of work samples or investment assets."
   },
   {
-    word: "CHRYSANTHEMUM",
+    word: "chrysanthemum",
     hint: "A flowering plant with daisy-like blooms."
   },
   {
-    word: "PERSEVERANCE",
+    word: "perseverance",
     hint: "The quality of continuing to try despite difficulties or setbacks."
   },
   {
-    word: "ARCHIPELAGO",
+    word: "archipelago",
     hint: "A group of islands clustered together in a sea or ocean."
   },
   {
-    word: "SILHOUETTE",
+    word: "silhouette",
     hint: "The dark outline or shape of something shown against a lighter background."
   },
   {
-    word: "BIOSPHERE",
+    word: "biosphere",
     hint: "The part of the Earth's environment where life exists."
   },
   {
-    word: "PHILANTHROPY",
+    word: "philanthropy",
     hint: "The practice of donating money, goods, or time to help others or to do good for society."
   },
   {
-    word: "PALINDROME",
+    word: "palindrome",
     hint: "A word, phrase, number, or other sequence of characters that reads the same backward as forward."
   },
   {
-    word: "RENAISSANCE",
+    word: "renaissance",
     hint: "A period of European history marked by a revival of art, literature, and learning."
   },
   {
-    word: "AQUAMARINE",
+    word: "aquamarine",
     hint: "A bluish-green variety of the mineral beryl, used as a gemstone."
   },
   {
-    word: "FILIBUSTER",
+    word: "filibuster",
     hint: "A political procedure where a senator or representative extends debate to delay or prevent a vote on a bill."
   },
   {
-    word: "QUINTESSENTIAL",
+    word: "quintessential",
     hint: "Representing the most perfect or typical example of a quality or class."
   },
   {
-    word: "BIOLUMINESCENCE",
+    word: "bioluminescence",
     hint: "The production and emission of light by a living organism."
   },
   {
-    word: "ONOMATOPOEIA",
+    word: "onomatopoeia",
     hint: "A word that phonetically imitates or resembles the sound it describes."
   },
   {
-    word: "SERENDIPITY",
+    word: "serendipity",
     hint: "The occurrence and development of events by chance in a happy or beneficial way."
   },
   {
-    word: "EQUILIBRIUM",
+    word: "equilibrium",
     hint: "A state of balance between opposing forces or actions."
   },
   {
-    word: "KARAOKE",
+    word: "karaoke",
     hint: "A form of entertainment where people sing along with recorded music."
   },
   {
-    word: "CALLIGRAPHY",
+    word: "calligraphy",
     hint: "The art of beautiful handwriting."
   },
   {
-    word: "HAIKU",
+    word: "haiku",
     hint: "A traditional form of Japanese poetry consisting of three lines."
   },
   {
-    word: "CHRONOLOGY",
+    word: "chronology",
     hint: "The arrangement of events or dates in the order of their occurrence."
   },
   {
-    word: "ZEPHYR",
+    word: "zephyr",
     hint: "A gentle, mild breeze."
   },
   {
-    word: "EFFERVESCENT",
+    word: "effervescent",
     hint: "Bubbling or fizzing, as with carbonation."
   },
   {
-    word: "QUINTESSENCE",
+    word: "quintessence",
     hint: "The pure essence of something; the most perfect embodiment of a quality."
   },
   {
-    word: "CREPUSCULAR",
+    word: "crepuscular",
     hint: "Active or occurring at dawn or dusk."
   },
   {
-    word: "MELANCHOLIC",
+    word: "melancholic",
     hint: "Characterized by or expressing sadness, gloom, or depression."
   },
   {
-    word: "DENOUEMENT",
+    word: "denouement",
     hint: "The final part of a play, film, or narrative in which the strands of the plot are drawn together and matters are explained or resolved."
   },
   {
-    word: "EPHEMERAL",
+    word: "ephemeral",
     hint: "Lasting for a very short time; impermanent."
   },
   {
-    word: "QUIXOTIC",
+    word: "quixotic",
     hint: "Exceedingly idealistic; unrealistic and impractical."
   },
   {
-    word: "ZEITGEIST",
+    word: "zeitgeist",
     hint: "The defining spirit or mood of a particular period of time."
   },
   {
-    word: "QUINTESSENTIAL",
+    word: "quintessential",
     hint: "Representing the most perfect or typical example of a quality or class."
   },
   {
-    word: "SERENDIPITY",
+    word: "serendipity",
     hint: "The occurrence and development of events by chance in a happy or beneficial way."
   },
   {
-    word: "EQUILIBRIUM",
+    word: "equilibrium",
     hint: "A state of balance between opposing forces or actions."
   },
   {
-    word: "KARAOKE",
+    word: "karaoke",
     hint: "A form of entertainment where people sing along with recorded music."
   },
   {
-    word: "CALLIGRAPHY",
+    word: "calligraphy",
     hint: "The art of beautiful handwriting."
   },
   {
-    word: "HAIKU",
+    word: "haiku",
     hint: "A traditional form of Japanese poetry consisting of three lines."
   },
   {
-    word: "CHRONOLOGY",
+    word: "chronology",
     hint: "The arrangement of events or dates in the order of their occurrence."
   },
   {
-    word: "ZEPHYR",
+    word: "zephyr",
     hint: "A gentle, mild breeze."
   },
   {
-    word: "EFFERVESCENT",
+    word: "effervescent",
     hint: "Bubbling or fizzing, as with carbonation."
   }
 ];

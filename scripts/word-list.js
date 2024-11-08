@@ -598,5 +598,5 @@ const wordList = [
   {
     word: "effervescent",
     hint: "Bubbling or fizzing, as with carbonation."
-  }
+  },
 ];
